@@ -8,7 +8,7 @@
 header{
     background-size: 300px;
     height: 75px;
-    background-color: rgb(243, 243, 243);
+    
     padding: 10px;
 }
 
@@ -16,6 +16,46 @@ header{
     display: inline-block;
 }
 
+.body{
+    background-color: gray;
+}
+
 .vertical-align{
     vertical-align: middle;
+}
+
+.py-30{
+    padding: 30px;
+    background-color: rgb(243, 243, 243);
+}
+
+.container{
+    width: 1200px;
+    margin: 0 auto;
+}
+
+.py-20{
+    padding: 20px;
+}
+
+.my-30{
+    margin-top:1px;
+    margin-left: 50px;
+}
+
+.font-size{
+    font-size: 20px;
+}
+
+.background-blu{
+    background-color: blue;
+    color: white;
+}
+
+.background-gray{
+    color: gray;
+}
+
+.my-40{
+    margin-left:100px ;
 }
