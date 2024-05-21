@@ -59,3 +59,88 @@ header{
 .my-40{
     margin-left:100px ;
 }
+
+.border-radius{
+    border-radius: 50%;
+     color: green;
+     background-color:white;
+    padding: 3px;
+    border: 2px solid green;
+}
+
+.font{
+    font-size: 20px;
+    margin: 20px;
+}
+
+.my-31{
+    margin-left: 70px;
+    margin-top: 20px;
+}
+
+.my-32{
+    margin-top: 50px;
+}
+
+.border-radius-cross{
+    border-radius: 50%;
+     color:red;
+     background-color:white;
+    padding: 3px;
+    border: 2px solid red;
+}
+
+.font1{
+    font-size: 15px;
+    border-radius: 10px;
+    background-color: rgb(0, 102, 255);
+    color: white;
+    padding: 5px 20px;
+}
+.font2{
+    border-radius: 10px;
+    background-color: rgb(127, 77, 127);
+    color: white;
+    padding: 5px 20px; 
+    font-size: 15px;
+}
+
+.font3{
+    border-radius: 10px;
+    background-color: rgb(57, 131, 57);
+    color: white;
+    padding: 5px 20px; 
+    font-size: 15px;
+}
+
+.font4{
+    border-radius: 10px;
+    background-color:rgb(241, 176, 57);
+    color: white;
+    padding: 5px 20px; 
+    font-size: 15px;
+}
+
+.font5{
+    border-radius: 10px;
+    background-color:rgb(228, 129, 145);
+    color: white;
+    padding: 5px 20px; 
+    font-size: 15px; 
+}
+
+.font6{
+    border-radius: 10px;
+    background-color:rgb(78, 243, 78);
+    color: white;
+    padding: 5px 20px; 
+    font-size: 15px; 
+}
+ 
+.border{
+    border-radius: 10px;
+    color: gray;
+    padding: 5px 20px; 
+    font-size: 15px; 
+   border: 2px solid gray;
+}
