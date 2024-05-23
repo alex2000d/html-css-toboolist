@@ -6,41 +6,74 @@
 
 /* header */
 header{
-    background-size: 300px;
-    height: 75px;
-    
-    padding: 10px;
+    padding: 10px 0px 10px 10px;
+}
+
+h1{
+    font-size: 45px;
 }
 
 .d-inline-block{
     display: inline-block;
 }
 
-.body{
+main{
     background-color: gray;
+    height: 800px;
+    padding: 40px 0px;
+}
+
+.contenuto{
+    border-radius: 15px;
+    height: 700px;
+    background-color: white;
+    
 }
 
 .vertical-align{
     vertical-align: middle;
 }
 
-.py-30{
-    padding: 30px;
-    background-color: rgb(243, 243, 243);
-}
+
 
 .container{
-    width: 1200px;
-    margin: 0 auto;
+    max-width: 1200px;
+    margin: 0px auto;
+}
+
+.parte-superiore{
+    border-bottom: 1px solid gray;
+    padding: 30px 30px;
+}
+
+.parte-inferiore{
+    height: 600px;
+    
+    padding: 10px;
 }
 
 .py-20{
     padding: 20px;
 }
 
-.my-30{
-    margin-top:1px;
-    margin-left: 50px;
+.btn{
+    border-radius: 5px;
+    padding: 5px 15px;
+    color: white;
+    font-size: 20px;
+}
+
+.btn-blu{
+    background-color: rgba(0, 162, 255, 0.69);
+    border: 1px solid gray
+}
+
+.btn-gray{
+    background-color: transparent;
+    border: 1px solid gray;
+    color: gray;
+
+    
 }
 
 .font-size{
